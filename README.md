@@ -1,19 +1,27 @@
-# Simple Responsive HTML
+# L06 Responsive Html
+
+> L06 Responsive Html in HTML
 
 As a HTML Developer, I want to create responsive websites easily, so that I can be productive
 
 ## Before and After
 
-Before and after for R05 Storage 
+Before and after for L06 Responsive Html in HTML
 
 <table>
 <tr>
-  <th>Screenshot</th>
+  <th>Before</th>
+  <th>After</th>
 </tr>
 <tr>
   <td>
   
-  ![Before](shot.png 'Before screenshot')
+  ![Before](shot-before.png 'Before screenshot')
+  
+  </td>
+  <td>
+  
+  ![After](shot-after.png 'After screenshot')
   
   </td>
 </tr>
@@ -22,6 +30,20 @@ Before and after for R05 Storage
 ## Development
 
 Run VSCode Live Server on index.html or open in your browser
+
+```bash
+# cd [YouCustomDevFolder]
+git clone git@github.com:klueless-html-samples/L06ResponsiveHtml.git && cd L06ResponsiveHtml
+
+npm install
+
+# use a command to open index.html in browser.
+# this is how I setup my Mac alias for chrome
+# alias chrome="open -a Google\ Chrome"
+chrome index.html
+```
+
+## License
 
 The code is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
