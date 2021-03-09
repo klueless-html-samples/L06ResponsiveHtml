@@ -4,6 +4,8 @@
 
 As a HTML Developer, I want to create responsive websites easily, so that I can be productive
 
+[Responsive design made easy - Kevin Powell](https://www.youtube.com/watch?v=bn-DQCifeQQ)
+
 ## Before and After
 
 Before and after for L06 Responsive Html in HTML
@@ -11,17 +13,11 @@ Before and after for L06 Responsive Html in HTML
 <table>
 <tr>
   <th>Before</th>
-  <th>After</th>
 </tr>
 <tr>
   <td>
   
-  ![Before](shot-before.png 'Before screenshot')
-  
-  </td>
-  <td>
-  
-  ![After](shot-after.png 'After screenshot')
+  ![Before](shot.png 'Before screenshot')
   
   </td>
 </tr>
